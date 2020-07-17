@@ -1,0 +1,63 @@
+#promo {
+  text-align: center;
+  padding: 35px;
+  background: url(../../assets/img/wakatobijpg-0X0f.jpg) no-repeat;
+  background-size: cover;
+  margin: auto;
+}
+
+#promo .jumbotron {
+  border-radius: 20px;
+  background-color: rgba(255,255,255,0.9);
+}
+
+#promo .btn.btn-primary {
+  background-color: rgba(0,255,0,0.75);
+  border-color: rgba(0,0,0,1);
+}
+
+.fas.fa-umbrella-beach {
+  font-size: 25px;
+}
+
+.fas.fa-wine-glass-alt {
+}
+
+.col-md-4.text-center {
+  margin-top: 5%;
+}
+
+.text-center {
+  text-align: center!important;
+  font-size: 29px;
+}
+
+#offer {
+  font-size: 30px;
+}
+
+.row {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;
+}
+
+.col-md-4.text-center p {
+  font-size: 14px;
+}
+
+.video {
+  text-align: center;
+}
+
+#video {
+  align-items: center;
+}
+
+#video {
+  text-align: center;
+}
+
